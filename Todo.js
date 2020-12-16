@@ -20,5 +20,3 @@ export default function Todo() {
     </li>
   );
 }
-
-export default Todo;
