@@ -46,8 +46,8 @@ function App(props) {
         aria-labelledby="list-heading"
       >
         <Todo name="Eat" completed={true} />
-        <Todo name="Sleep" completed={true} />
-        <Todo name="Repeat" completed={true} />
+        <Todo name="Sleep" completed={false} />
+        <Todo name="Repeat" completed={false} />
       </ul>
     </div>
   );
